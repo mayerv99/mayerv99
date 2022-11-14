@@ -1,7 +1,7 @@
 <h2>Hi there, my name is Victor Aragão!</h2>
 <ul>
   <li>Currently as a ReactJS frontend developer</li>
-  <li>Studying to become FullStack in JavaScript</li>
+  <li>Full Stack with MERN Stack</li>
 </ul>
 <div>
   <a href="https://github.com/mayerv99">
